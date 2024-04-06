@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>_231_335_Шматов.А.М._1_</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Dogma-buddy-jesus-1024x576.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Dogma-buddy-jesus-1024x576.jpg" />
+  </ItemGroup>
+
+</Project>
